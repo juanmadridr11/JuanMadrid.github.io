@@ -50,7 +50,7 @@
             <div class="header-2 col-lg-6 col-md-6 col-sm-6 col-xs-12">
             
                 <h2>PROGRAMACION</h2>
-                <p>Aqui vas a encontrar mi progreso,informacion, etc... como programador</p>
+                <p>Aqui vas a encontrar mi progreso,informacion, etc... como programador.</p>
                 <a href="#" class="header-buttom">¡ Vamos !</a>
 
             </div>
