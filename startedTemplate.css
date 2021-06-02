@@ -438,7 +438,11 @@ html{
     }
     html{
 
-        width: 70rem;
+        width: 42rem;
+    }
+    .icons{
+
+        margin-right: 0rem;
     }
 
 }
