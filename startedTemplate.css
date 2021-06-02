@@ -425,5 +425,9 @@ html{
 
         margin-left: 7rem !important;
     }
+    html{
+
+        width: 40rem;
+    }
 
 }
