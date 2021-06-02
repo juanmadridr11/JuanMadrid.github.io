@@ -35,7 +35,7 @@ html{
 
 /* @MEDIA PARA PANTALLA GRANDE */
 
-@media(min-width : 1200px){
+@media(min-width : 10240px){
 
     .col-lg-12{
         float: left;
@@ -132,7 +132,7 @@ html{
 
 /* @MEDIA PARA PANTALLA MEDIANA */
 
-@media(max-width : 1199px) and (min-width : 992px){
+@media(max-width : 1023px) and (min-width : 762px){
 
     .col-md-12{
         float: left;
@@ -237,7 +237,7 @@ html{
 }
 /* @MEDIA PARA PANTALLA TABLET */
 
-@media(max-width : 991px) and (min-width : 768px){
+@media(max-width : 767px) and (min-width : 800px){
 
     .col-sm-12{
         float: left;
@@ -341,7 +341,213 @@ html{
 }
 /* @MEDIA PARA PANTALLA EXTRA PEQUEÑO */
 
-@media(max-width : 767px){
+@media(max-width : 799px) and (min-width : 600px){
+
+    .col-xs-12{
+        float: left;
+        width: 100%;
+        border: 1px solid black;
+        padding: 20px;
+    }
+    .col-xs-11{
+
+        float: left;
+        width: 91.66666667%;
+        border: 1px solid black;
+        padding: 20px;
+
+    }
+    .col-xs-10{
+
+        float: left;
+        width: 83.33333333%;
+        border: 1px solid black;
+        padding: 20px;
+
+    }
+    .col-xs-9{
+
+        float: left;
+        width: 75%;
+        border: 1px solid black;
+        padding: 20px;
+
+    }
+    .col-xs-8{
+
+        float: left;
+        width: 66.66666667%;
+        border: 1px solid black;
+        padding: 20px;
+
+    }
+    .col-xs-7{
+
+        float: left;
+        width: 58.33333333%;
+        border: 1px solid black;
+        padding: 20px;
+
+    }
+    .col-xs-6{
+        
+        float: left;
+        width: 50%;
+        border: 1px solid black;
+        padding: 20px;
+    }
+    .col-xs-5{
+        
+        float: left;
+        width: 41.66666667%;
+        border: 1px solid black;
+        padding: 20px;
+    }
+    .col-xs-4{
+        
+        float: left;
+        width: 33.33333333%;
+        border: 1px solid black;
+        padding: 20px;
+    }
+    .col-xs-3{
+        
+        float: left;
+        width: 25%;
+        border: 1px solid black;
+        padding: 20px;
+    }
+    .col-xs-2{
+
+        float: left;
+        width: 16.66666667%;
+        border: 1px solid black;
+        padding: 20px;
+
+    }
+    .col-xs-1{
+
+        float: left;
+        width: 8.33333333%;
+        border: 1px solid black;
+        padding: 20px;
+    }
+    footer h2{
+
+        margin-left: 13rem !important;
+    }
+    html{
+
+        width: 42rem;
+    }
+
+}
+/* @MEDIA PARA PANTALLA EXTRA PEQUEÑO */
+
+@media(max-width : 599px) and (min-width : 480px){
+
+    .col-xs-12{
+        float: left;
+        width: 100%;
+        border: 1px solid black;
+        padding: 20px;
+    }
+    .col-xs-11{
+
+        float: left;
+        width: 91.66666667%;
+        border: 1px solid black;
+        padding: 20px;
+
+    }
+    .col-xs-10{
+
+        float: left;
+        width: 83.33333333%;
+        border: 1px solid black;
+        padding: 20px;
+
+    }
+    .col-xs-9{
+
+        float: left;
+        width: 75%;
+        border: 1px solid black;
+        padding: 20px;
+
+    }
+    .col-xs-8{
+
+        float: left;
+        width: 66.66666667%;
+        border: 1px solid black;
+        padding: 20px;
+
+    }
+    .col-xs-7{
+
+        float: left;
+        width: 58.33333333%;
+        border: 1px solid black;
+        padding: 20px;
+
+    }
+    .col-xs-6{
+        
+        float: left;
+        width: 50%;
+        border: 1px solid black;
+        padding: 20px;
+    }
+    .col-xs-5{
+        
+        float: left;
+        width: 41.66666667%;
+        border: 1px solid black;
+        padding: 20px;
+    }
+    .col-xs-4{
+        
+        float: left;
+        width: 33.33333333%;
+        border: 1px solid black;
+        padding: 20px;
+    }
+    .col-xs-3{
+        
+        float: left;
+        width: 25%;
+        border: 1px solid black;
+        padding: 20px;
+    }
+    .col-xs-2{
+
+        float: left;
+        width: 16.66666667%;
+        border: 1px solid black;
+        padding: 20px;
+
+    }
+    .col-xs-1{
+
+        float: left;
+        width: 8.33333333%;
+        border: 1px solid black;
+        padding: 20px;
+    }
+    footer h2{
+
+        margin-left: 13rem !important;
+    }
+    html{
+
+        width: 42rem;
+    }
+
+}
+/* @MEDIA PARA PANTALLA EXTRA PEQUEÑO */
+
+@media(max-width : 479px) and (min-width : 320px){
 
     .col-xs-12{
         float: left;
