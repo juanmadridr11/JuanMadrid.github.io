@@ -226,6 +226,10 @@ html{
 
         margin-left: 13rem !important;
     }
+    html{
+
+        width: 40rem;
+    }
 
 
 }
@@ -325,6 +329,10 @@ html{
     footer h2{
 
         margin-left: 13rem !important;
+    }
+    html{
+
+        width: 40rem;
     }
 
 }
