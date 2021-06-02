@@ -126,6 +126,7 @@ html{
         border: 1px solid black;
         padding: 20px;
     }
+  
 
 }
 
@@ -226,6 +227,11 @@ html{
 
         margin-left: 13rem !important;
     }
+    html{
+
+        width: 65rem;
+    }
+    
 
 
 }
@@ -326,6 +332,11 @@ html{
 
         margin-left: 13rem !important;
     }
+    html{
+
+        width: 52rem;
+    }
+   
 
 }
 /* @MEDIA PARA PANTALLA EXTRA PEQUEÑO */
@@ -423,7 +434,11 @@ html{
     }
     footer h2{
 
-        margin-left: 7rem !important;
+        margin-left: 13rem !important;
+    }
+    html{
+
+        width: 42rem;
     }
 
 }
