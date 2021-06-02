@@ -342,7 +342,7 @@ html{
     }
     .filas h1{
         
-        margin-left: 3.5rem;
+        margin-left: 3.5rem !important;
     }
    
 
@@ -450,7 +450,7 @@ html{
     }
     .filas h1{
         
-        margin-left: 3.5rem;
+        margin-left: 3.5rem !important;
     }
 
 }
